@@ -1,0 +1,21 @@
+{
+    "admob_banner_id": "",
+    "admob_interstitial_id": "",
+    "admob_native_id": "",
+    "banner_category_position": "4",
+    "enable_banner_category": "true",
+    "enable_banner_in_menu": "true",
+    "enable_interstitial_after_download": "true",
+    "enable_interstitial_after_set": "true",
+    "enable_interstitial_on_detail": "true",
+    "enable_native_wallpaper": "true",
+    "interstitial_click_times_on_detail": "3",
+    "loading_time": "500",
+    "native_wallpaper_position": "30",
+    "shuffle_image": "true",
+    "wallpaper_folder": "wallpaper",
+    "facebook_banner_id": "IMG_16_9_APP_INSTALL#",
+    "facebook_banner_native": "IMG_16_9_APP_INSTALL#",
+    "facebook_inter_id": "IMG_16_9_APP_INSTALL#",
+    "facebook_native_id": "IMG_16_9_APP_INSTALL#"
+}
