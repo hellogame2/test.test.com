@@ -1,0 +1,72 @@
+{
+    "ads":{
+        "mode_ads_banner": "myAds",
+        "mode_ads_inter": "myAds",
+        "unity": {
+            "UnityGameId": "",
+            "UnityBannerUnitId": "",
+            "UnityInterUnitId": ""
+        },
+        "max": {
+            "MaxBannerUnitId": "",
+            "MaxNativeUnitId": "",
+            "MaxInterUnitId": ""
+        },
+        "myAds": {
+            "MyAdsLink": "https://google.com",
+            "MyAdsBannerImage": "https://media.tenor.com/_yndIq235YwAAAAC/terrabyt-terrabyt-offer.gif",
+            "MyAdsInterImage": "https://edit.org/photos/img/blog/h7y-free-online-poster-templates-sale-deals.jpg-840.jpg"
+        },
+        "update": {
+            "updateEnable": false,
+            "updateEnableClosed": true,
+            "updateIcon": "",
+            "updateTitle": "",
+            "updateDescription": "",
+            "updateButtonText": "",
+            "updateUrl": ""
+        }
+
+    },
+
+"posts" : [
+    {
+      "id" : 0,
+      "name" : "",
+      "content" : ""
+    },
+    {
+      "id" : 1,
+      "name" : "",
+      "content" : ""
+    },
+    {
+      "id" : 2,
+      "name" : "",
+      "content" : ""
+    },
+
+    {
+      "id" : 3,
+      "name" : "",
+      "content" : ""
+    },
+    {
+      "id" : 4,
+      "name" : "",
+      "content" : ""
+    },
+    {
+      "id" : 5,
+      "name" : "",
+      "content" : ""
+    },
+    {
+      "id" : 6,
+      "name" : "",
+      "content" : ""
+    }
+  ]
+
+
+}
